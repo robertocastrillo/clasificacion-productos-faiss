@@ -1,0 +1,7 @@
+__pycache__/
+config.py
+*.xlsx
+*.csv
+*.bak
+*.log
+*.env
